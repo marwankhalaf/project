@@ -1,3 +1,5 @@
+// start script
+
 let searchBtn = document.querySelector('#search-btn');
 let searchForm = document.querySelector('.header .search-form');
 
